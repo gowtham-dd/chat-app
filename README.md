@@ -54,13 +54,8 @@ Welcome to **ChatApp**, a modern and intuitive chat application built with **Flu
    flutter run
    ```
 
----
 
-## 🌐 Live Demo
 
-Check out a live demo of the app [here](https://your-demo-link.com). <!-- Update with your demo link -->
-
----
 
 ## 🛠️ Technologies Used
 
@@ -99,4 +94,4 @@ For any inquiries or suggestions, feel free to reach out:
 ---
 
 Thank you for checking out ChatApp! We hope you enjoy using it as much as we enjoyed building it. Happy chatting! 🎉
-```
+
